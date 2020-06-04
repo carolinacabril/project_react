@@ -1,0 +1,18 @@
+.header {
+    background-color: royalblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.container-header{
+    display: flex;
+    max-width: 900px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    font-size: 24px;
+    color: #fff;
+}
